@@ -1,6 +1,7 @@
 [submodule "FreeRTOS/Source"]
 	path = FreeRTOS/Source
 	url = https://github.com/keystone-enclave/FreeRTOS-Kernel.git
+	branch = dev
 [submodule "FreeRTOS-Plus/Test/CMock"]
 	path = FreeRTOS-Plus/Test/CMock
 	url = https://github.com/ThrowTheSwitch/CMock
